@@ -3,7 +3,7 @@
 This fork is the translated version of [Casper 4.x](https://github.com/TryGhost/Casper) theme.
 It was translated by following the [official guide](https://ghost.org/docs/themes/helpers/translate/).
 
-## Currently available languages:
+## Currently available languages
 
 - English (en)
 - French (fr)
