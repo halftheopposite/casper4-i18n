@@ -10,7 +10,7 @@ It was translated by following the [official guide](https://ghost.org/docs/theme
 
 ## Branches
 
-- The `master` branch follows the latest Casper version.
+- The `main` branch follows the latest Casper version.
 - The `i18n` branch is the translated version.
 
 # Casper
