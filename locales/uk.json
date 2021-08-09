@@ -1,0 +1,21 @@
+{
+  "Account": "Рахунок",
+  "Sign up for more like this.": "Зареєструйтесь, щоб отримати більше подібного.",
+  "Enter your email": "Введіть свою електронну адресу",
+  "Subscribe": "Підписатися",
+  "Tagged": "Позначено",
+  "Multiple authors": "Кілька авторів",
+  "No posts published": "Немає публікацій",
+  "% post published": "% публікаця опубліковано",
+  "% posts published": "% публікацій опубліковано",
+  "Newer Posts": "Новіші публікації",
+  "Older Posts": "Старіші публікації",
+  "1 min read": "1 хв читання",
+  "% min read": "% хв читання",
+  "Powered by Ghost": "Працює від Ghost",
+  "Go to the front page": "Перейти на головну сторінку",
+  "Theme errors": "Помилки теми",
+  "Ref:": "Посилання:",
+  "Message:": "Повідомлення:",
+  "Page {page} of {pages}": "Сторінка {page} з {pages}"
+}
