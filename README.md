@@ -7,7 +7,7 @@ It was translated by following the [official guide](https://ghost.org/docs/theme
 
 - English (en)
 - French (fr)
-- Spanish (sp)
+- Spanish (es)
 - Ukrainian (uk)
 
 ## Branches
